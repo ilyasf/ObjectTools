@@ -6,9 +6,9 @@ java script tool to print object information
 
 using example (node js)
 
-var testObj = {
-    a: '123',
-    b: 2234,
+var testObj = {\n
+    a: '123',\n
+    b: 2234,\n
     c: [
         '123',
         '221',
