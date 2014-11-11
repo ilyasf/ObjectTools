@@ -16,6 +16,7 @@ var objectTools = require('./tools.js');
 objectTools.printObject(yourObject);
 
 result like as
+
  a: as
  
  b: 2,
